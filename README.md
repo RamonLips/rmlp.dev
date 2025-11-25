@@ -6,7 +6,7 @@ Landing page for [rmlp.dev](https://rmlp.dev) - A simple Node.js web application
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm
 
 ### Installation
