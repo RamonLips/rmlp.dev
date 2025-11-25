@@ -1,0 +1,20 @@
+{
+  "name": "rmlp.dev",
+  "version": "1.0.0",
+  "description": "Landing page for rmlp.dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landing-page",
+    "nodejs",
+    "express"
+  ],
+  "author": "Ramon Lips",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
